@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+}
+
+#hero-section {
+    background-image: url("images/mars.webp");
+    background-size: cover;
+    min-height: 800px;
+    color: white;
+}
+
+#footer {
+    height: 10px;
+    padding-bottom: 20px;
+    color: #D7845D;
+}
+
+#main-logo {
+    width: 200px;
+    margin-top: 50px;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #D7845D;
+    color: rgb(232, 232, 232);
+}
+
+.underline {
+    border-bottom: 4px solid #D7845D;
+}
+   
+h1 {
+    text-shadow: 0px 0px 4px #000;
+}
